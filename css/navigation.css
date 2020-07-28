@@ -1,0 +1,15 @@
+nav{
+    height: 50px;
+    background-color: violet;
+}
+
+ul{
+    display: flex;
+    justify-content: flex-end
+}
+
+li{
+    padding: 5px;
+    margin: 10px;
+
+}

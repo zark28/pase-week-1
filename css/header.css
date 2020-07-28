@@ -1,0 +1,64 @@
+ /***** Headings and Navigation*****/
+  header{
+    margin-bottom: 40px;
+    box-shadow: 10px 10px rgba(41, 37, 37, 0.658);
+ } 
+
+ header h2{
+     margin-top: 20px;
+ }
+ .nav {
+     display: flex;
+     align-items: flex-end;
+     justify-content: flex-end;
+     width: 90%;
+     margin-top: 10px;
+}
+
+.nav h2{
+    padding: 0 0 0 10px;
+}
+
+.nav h2 a{
+    text-decoration: none;
+    color: rgba(41, 37, 37, 0.658);
+}
+
+ .main-headings{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     flex-wrap: wrap;
+     height: 150px;
+     background-color: rgba(211, 211, 202, 0.822);
+     border-radius:5% 5% 5% 5% ;
+     text-align: center;
+     padding: 5px;
+     margin-top: 5px;
+     width: 90%;
+ }
+
+ .main-head-div{
+    display: flex;
+     align-items: center;
+     justify-content: center;
+ }
+
+.image{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.image img{
+     height: 150px;
+     object-fit: fill; 
+     object-position: center;
+ }
+
+ .heading h1, .heading h2{
+    padding: 5px 0 5px 10px;
+ }
+
+ 
